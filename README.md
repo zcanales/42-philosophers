@@ -33,5 +33,5 @@ times, the simulation stops. If not specified, the simulation stops when a
 philosopher dies.
 
 Example:
-- Mandatory part directory: ``` philo/ 4 410 200 200 2 ```
-- Bonus part directory: ``` philo_bonus/ 4 410 200 200 2 ```
+- Mandatory part directory: ``` ./philo 4 410 200 200 2 ```
+- Bonus part directory: ``` ./philo_bonus 4 410 200 200 2 ```
