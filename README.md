@@ -1,4 +1,4 @@
-# Philosphers 🍝
+# Philosphers 🍝 🧶
 The aim of this project is to learn about multithreading, multiprocessing, mutex and semaphore.
 
 ## Description 📃
